@@ -1,0 +1,2 @@
+all:
+	g++ -std=c++17 ./src/main.cpp -g -o facade -I/Users/zaid/Desktop/project-facade/SFML/Frameworks/SFML.framework/Headers -F/Users/zaid/Desktop/project-facade/SFML/Frameworks -F/Users/zaid/Desktop/project-facade/SFML/extlibs -framework SFML  -framework sfml-window -framework sfml-audio -framework sfml-graphics -framework sfml-window -framework sfml-system -rpath /Users/zaid/Desktop/project-facade/SFML/Frameworks
