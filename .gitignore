@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+facade
+
+.DS_Store
+
+*.dSYM
+
+*.mov
+
+SFML/*
+
+
+
+
